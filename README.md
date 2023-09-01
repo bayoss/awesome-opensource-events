@@ -34,3 +34,9 @@
     - 开源社 COSCon 组委会
     - https://kaiyuanshe.cn/activity/recVnSz8ru
 
+## YAER 2021
+- 2021.10月 23 ~ 24
+    - 南方科技大学
+    - https://sosconf.org/zh-hans/
+ 
+  
