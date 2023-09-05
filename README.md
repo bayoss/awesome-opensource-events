@@ -34,6 +34,12 @@
     - 开源社 COSCon 组委会
     - https://kaiyuanshe.cn/activity/recVnSz8ru
 
+## YEAR 2022
+- 2022 COSCon22 2022 第七届中国开源年会 —— Open the World! 
+    - 开源社 
+    - https://www.bagevent.com/event/coscon
+
+
 ## YAER 2021
 - 2021.10月 23 ~ 24 SOSCON 学生开源年会 
     - 南方科技大学
