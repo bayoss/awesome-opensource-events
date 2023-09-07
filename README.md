@@ -25,6 +25,9 @@
     - GOSIM 大会是 KUBECON + CLOUDNATIVECON + 2023中国开源峰会的赞助商联合主办的活动
     - GOSIM开源创新汇 主办
     - https://conference2023.gosim.org/
+- 2023.10.1 ~ 31 Hacktoberfest 2023 | 十月黑客节 10周年
+    - DigitalOcean, illacloud, appwrite
+    - https://hacktoberfest.com/
 - 202310.21 ~ 22 CCF 中国开源大会 ChinaOSC —— 开源联合、聚力共赢
     - 湖南 长沙 北辰国际会议中心
     - 中国计算机学会、开放原子开源基金会 主办
