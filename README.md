@@ -1,7 +1,8 @@
 # awesome-opensource-events
 开放收集开源主题的国内外活动与会议，以网站和日历形式公开分享！
 
-**TOC**  [2024](#year-2024)   [2023](#year-2023)    [2022](#year-2022)   [2021](#year-2021) 
+
+#### **TOC :**   [2024](#year-2024)   [2023](#year-2023)    [2022](#year-2022)   [2021](#year-2021) 
 ===================
 
 
@@ -50,7 +51,7 @@
     - https://www.bagevent.com/event/coscon
 
 
-## YAER 2021
+## YEAR 2021
 - 2021.10月 23 ~ 24 SOSCON 学生开源年会 
     - 南方科技大学
     - https://sosconf.org/zh-hans/
