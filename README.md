@@ -44,6 +44,10 @@
     - 四川成都 成都菁蓉汇
     - 开源社 COSCon 组委会
     - https://kaiyuanshe.cn/activity/recVnSz8ru
+- 2023.12.19 2023 开源产业大会 
+    - 上海
+    - 上海开源信息技术协会 主办
+    - https://www.opentekr.com/sosc/ 
 
 ## YEAR 2022
 - 2022 COSCon22 2022 第七届中国开源年会 —— Open the World! 
