@@ -3,11 +3,14 @@
 
 
 #### **TOC :**   [2024](#year-2024)   [2023](#year-2023)    [2022](#year-2022)   [2021](#year-2021) 
-===================
+----
 
 
 ## YEAR 2024
-
+- 2024.3 OSPO Summit 第二届开源管理办公室峰会
+    - 深圳
+    - OSPO Summit & SegmentFault
+    - https://www.bagevent.com/event/8490447 
 
 ## YEAR 2023
 
