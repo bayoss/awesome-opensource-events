@@ -10,17 +10,22 @@
 
 
 - 2024.3.19~20 KubeCon + CloudNativeCon Europe 2024
-    - 巴黎
+    - 法国 巴黎
     - LF CNCF
     - https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 
 - 2024.3.28~29 OSPO Summit 第二届开源办公室峰会
-    - 深圳 科兴科学园
+    - 中国 深圳  
     - OSPO Group & SegmentFault
     - https://ospo.events/
  
+- 2024.4.8~10 亚洲自由开源软件峰会 2024 FOSSASIA SUMMIT 2024
+    - 越南 河内市 
+    - FOSSASIA 
+    - https://www.eventyay.com/e/55d2a466
+ 
 - 2024.8  KubeCon + CloudNativeCon China 2024
-    - 香港 
+    - 中国 香港 
     - LF CNCF 
 
 
