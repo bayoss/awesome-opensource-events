@@ -23,6 +23,10 @@
     - 越南 河内市 
     - FOSSASIA 
     - https://www.eventyay.com/e/55d2a466
+
+- 2024.7.26~28 CommunityOverCode Asia 2024
+    - 中国 杭州
+    - Apache软件基金会亚洲大会 
  
 - 2024.8  KubeCon + CloudNativeCon China 2024
     - 中国 香港 
