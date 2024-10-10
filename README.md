@@ -28,9 +28,29 @@
     - 中国 杭州
     - Apache软件基金会亚洲大会 
  
-- 2024.8  KubeCon + CloudNativeCon China 2024
+- 2024.8.23~25  KubeCon + CloudNativeCon China 2024
     - 中国 香港 
-    - LF CNCF 
+    - LF CNCF
+    - https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china/
+ 
+- 2024.10.16 OSCAR 开源产业大会
+    - 中国 北京
+    - 中国通信标准化协会 中国信息通信研究院 
+    - https://www.bagevent.com/event/oscar-2024
+ 
+- 2024.10.17~18 GOSIM 开源创新汇 2024
+    - 中国 北京
+    - GOSIM Foundation & CSDN
+    - https://china2024.gosim.org/zh
+ 
+- 2024.11.2~3 COSCON'24 第九届中国开源年会
+    - 中国 北京
+    - 开源社
+    - https://kaiyuanshe.cn/activity/COSCon-2024
+ 
+- 2024.12.7 2024 IOSF 国际开源节 全球开源教育峰会
+    - 中国 深圳
+    - OSTech & LFOSSA
 
 
 ## YEAR 2023
