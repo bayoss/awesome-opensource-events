@@ -2,12 +2,20 @@
 开放收集开源主题的国内外活动与会议，以网站和日历形式公开分享！
 
 
-#### **TOC :**   [2024](#year-2024)   [2023](#year-2023)    [2022](#year-2022)   [2021](#year-2021) 
+#### **TOC :**   [2025](#year-2025)  [2024](#year-2024)   [2023](#year-2023)    [2022](#year-2022)   [2021](#year-2021) 
 ----
 
+## YEAR 2025
+
+- 2025.6.10~11 KubeCon & CloudNativeCon
+    - 中国 香港
+    - https://events.linuxfoundation.org/kubecon-cloudnativecon-china/
+     
+- 2025.6.12 3rd OSPO Summit
+    - 中国 北京
+    - https://ospo.events/  
 
 ## YEAR 2024
-
 
 - 2024.3.19~20 KubeCon + CloudNativeCon Europe 2024
     - 法国 巴黎
