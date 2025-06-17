@@ -7,13 +7,25 @@
 
 ## YEAR 2025
 
-- 2025.6.10~11 KubeCon & CloudNativeCon
+- 2025.6.10~11 KubeCon & CloudNativeCon 2025 China
     - 中国 香港
+    - LF & CNCF 
     - https://events.linuxfoundation.org/kubecon-cloudnativecon-china/
      
-- 2025.6.12 3rd OSPO Summit
+- 2025.6.12 第三届 OSPO Summit 
     - 中国 北京
-    - https://ospo.events/  
+    - OSPO Group
+    - https://ospo.events/
+ 
+- 2025.6.13~14 第20届 开源中国开源世界 
+    - 中国 北京
+    - COPU
+    - https://ocow.ccidmedia.com/index.html 
+
+- 2025.8.2~3 CCF中国开源大会 
+    - 中国上海
+    - CCF
+    - https://chinaosc.ccf.org.cn/
 
 ## YEAR 2024
 
